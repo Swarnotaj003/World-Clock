@@ -11,12 +11,12 @@ The objective of this project is to learn to integrate the interactive UI compon
 
 You can try out the demo of this application by visiting the following link:
 
-[**Live Demo as Webpage**]()
+[**Live Demo as Webpage**](https://world-clock-ea138.web.app)
 
 Alternatively, you can download the APK file to install the application on your Android device:
 > This will require **granting permission** to *install apps from unknown sources*
 
-[**Download APK**]()
+[**Download APK**](https://github.com/Swarnotaj003/World-Clock/releases/download/v1.0/app-debug.apk)
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/Swarnotaj003/World-Clock.git
-    cd whatsapp_clone
+    cd world_clock
 2. Install the dependencies:
     ```bash
     flutter pub get
