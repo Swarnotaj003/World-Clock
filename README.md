@@ -18,6 +18,16 @@ Alternatively, you can download the APK file to install the application on your 
 
 [**Download APK**](https://github.com/Swarnotaj003/World-Clock/releases/download/v1.0/app-debug.apk)
 
+## App Preview
+Home (Night) | Edit location | Evening | Morning | Afternoon
+-------------|---------------|---------|---------|----------
+![image](https://github.com/user-attachments/assets/cfb52429-4120-42cd-a16a-12205cafccb7) | ![image](https://github.com/user-attachments/assets/75db7d05-075c-4bbc-8b27-5ef0b86738ed) | ![image](https://github.com/user-attachments/assets/d52c8235-671b-420d-9b22-e29fc1f224b7) | ![image](https://github.com/user-attachments/assets/4e73a434-54e5-4607-8550-6ad9f368d787) | ![image](https://github.com/user-attachments/assets/93d4d29b-c397-4eef-b7ff-c5a98dff8f9c)
+
+
+
+
+
+
 ## Getting Started
 
 To run this project locally, follow these steps:
